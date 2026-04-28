@@ -22,13 +22,15 @@ retrieving prices for items the user intended to buy.
 
 ## Stack
 
-- Node.js + Express
-- Server-rendered with EJS templates
-- MongoDB via Mongoose
-- OpenAI API for recipe generation
-- Puppeteer for headless browser scraping
-- Session-based authentication with passport
-- Deployed on Render (v1 deployment since retired)
+* Node.js + Express
+* Server-rendered with EJS templates
+* SCSS for styling
+* MongoDB via Mongoose
+* OpenAI API for recipe generation
+* Puppeteer for headless browser scraping
+* Session-based authentication with Passport
+* Containerized with Docker
+* Deployed on Render (v1 deployment since retired)
 
 ## Why it's archived
 
